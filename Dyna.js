@@ -40,7 +40,7 @@ let form = document.querySelector("form");
           
 
 
-            // Créer le nouvel élément de commentaire (nom/prénom)
+            // Créer le nouvel élément de commentaire -1
 
             let newComment = document.createElement('div');
 
@@ -49,7 +49,7 @@ let form = document.querySelector("form");
             commentList.insertBefore(newComment, commentList.secondChild);
 
 
-            // Ajouter le nouvel élément à la liste des commentaires
+            // 2
 
             let newComment2 = document.createElement('div');
 
@@ -59,7 +59,7 @@ let form = document.querySelector("form");
 
             newComment.appendChild(newComment2);
 
-            //zfezg
+            // 3
 
             let newComment3 = document.createElement('div');
 
@@ -71,7 +71,7 @@ let form = document.querySelector("form");
 
             newComment2.appendChild(newComment3);
 
-            //zfezg
+            // 4
 
             let newComment4 = document.createElement('div');
 
