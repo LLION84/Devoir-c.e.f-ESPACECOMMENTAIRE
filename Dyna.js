@@ -84,7 +84,7 @@ let form = document.querySelector("form");
             newComment2.appendChild(newComment4);
 
             
-            // Réinitialiser le formulaire et masquer le message d'erreur
+
 
             form.reset();
 
